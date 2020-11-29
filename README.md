@@ -25,4 +25,6 @@ SSD anchor configurtion is show bellow:
 
 |Multibox layers| feature map size| anchor size | aspect ratio|
 |---------------|-----------------|--------------|-------------|
-||First	         |33x33            |	0.04,0.056  |	1,0.62,0.42  |
+|First	         |33x33            |	0.04,0.056  |	1,0.62,0.42  |
+|Second		       |17x17            |	0.08,0.11   |               |
+|Third	         |9x9	             |0.16,0.22	    |1,0.62,0.42|
