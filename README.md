@@ -33,6 +33,10 @@ SSD anchor configurtion is show bellow:
 
 ## HOW TO RUN
 
-## KERAS
+## Keras
+
+on image：
+
+> python keras_infer.py  --img-path /path/to/your/img
 
 
