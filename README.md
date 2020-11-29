@@ -11,5 +11,5 @@
 
 ** First of all, we hope the people in the world defeat COVID-2019 as soon as possible. Stay strong, all the countries in the world.**
 
--We make face mask detection models with five mainstream deep learning frameworks （PyTorch、TensorFlow、Keras、MXNet,Caffe） open sourced, and the corresponding inference codes.
++ We make face mask detection models with five mainstream deep learning frameworks （PyTorch、TensorFlow、Keras、MXNet,Caffe） open sourced, and the corresponding inference codes.
 
