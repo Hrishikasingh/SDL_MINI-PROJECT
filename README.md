@@ -1,11 +1,9 @@
 # FaceMaskDetection
 
 ## We open source all the popular deep learning frameworks' model and inference code to do face mask detection.
- + PyTorch
- + TensorFlow（include tflite and pb model）
  + Keras
- + MXNet
- + Caffe
+ 
+ 
  
  ** Detect faces and determine whether they are wearing mask.**
 
