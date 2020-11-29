@@ -1,6 +1,6 @@
 # FaceMaskDetection
 
-## We open source all the popular deep learning frameworks' model and inference code to do face mask detection.
+## We have used open source all the popular deep learning framework' model and inference code to do face mask detection.
  + Keras
  
  
